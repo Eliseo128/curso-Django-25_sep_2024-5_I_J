@@ -1,0 +1,32 @@
+- 10 Agregando la aplicacion al settings django   
+- ![alt text](image-1.png)
+-
+- En la terminal revisamos el proyecto   --> python manage.py check
+- Otra manera de verificar que funciona  --> python manage.py runserver
+- Explicando patron MVT django video -->  https://youtu.be/laURuZdJDsU?si=UdLbrPRoUugL8DfS
+- 
+- Configurando el directorio templates django
+- ![alt text](image-2.png)
+- 
+- Creando la primer vista basada en funcion django
+- ![alt text](image.png)
+- 
+- Creando el primer template django
+- ![alt text](image-3.png)
+-
+- Enlazando la vista a las urls django
+-
+- ![alt text](image-4.png)
+-
+- ejecutar servidor y ver en el navegador
+-
+- Mejorando la gestion de urls django
+-
+- en urls.py global
+- ![alt text](image-5.png)
+- 
+- creamos urls.py en empleadoapp y escribimos
+-
+- ![alt text](image-6.png)
+- revisamos el navegador
+- video 18

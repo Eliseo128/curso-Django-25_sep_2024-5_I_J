@@ -1,0 +1,10 @@
+- link https://code.visualstudio.com/docs/python/tutorial-django
+-
+- link ORM de Django
+- https://youtu.be/S6vwCy6tW2M?si=D3AV6N3FhrTiZTUS
+-
+- link Django ORM Primer - Models and Fields
+- https://youtu.be/fue6An_UnV0?si=lg2s3wh-E5pXZtd1
+- 
+- link CURSO DJANGO - Utilizando el ORM  machine
+- https://youtu.be/e0kSDbPf5nU?si=KToISGCf3nmP4njG

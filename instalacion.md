@@ -1,0 +1,13 @@
+- 1 Crear entorno virtual      -->       python -m virtualenv .venv
+- 2 Activar entorno virtual    -->      .venv\scripts\activate
+- 3 Selecionamos el interprete -->      presionamos F1
+- 4 Instalamos Django          -->      python -m pip install django
+- 5 Creamos el proyecto        -->      django-admin startproject nombre_project .
+- 6 realizamos la migracion    -->      python manage.py migrate
+- 7 ejecutamos el servidor     -->      python manage.py runserver
+- 8 Creamos la aplicacion      -->      python manage.py startapp nombre de la aplicacion
+- 9 instalamos el complemento SQLite Viewer for VSCode
+- 10 Creamos el archivo .txt   -->      pip freeze > requirements.txt
+- 10 crear superusuario        -->      python manage.py createsuperuser
+- 11 Ejecutar servidor         -->      python manage.py runserver
+- 12 Nn el navegador           -->      http://127.0.0.1:8000/admin/
